@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/kruzka/test3/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kruzka/test3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Добро пожаловать</title>
+</head>
+<body> 
+<left><h1>Печникова Виктория</h1></left>
+<left><img alt="Это я" width="15%" src="https://pp.userapi.com/c637719/v637719292/1c348/d1xsUHFgxYg.jpg"></left>
+<br/>
+<h2>Контакты:</h2>
+Страничка <a href=https://vk.com/rafaelochkkka>vk.com</a>
+<br/>
+Гуглтест <a href=https://docs.google.com/forms/d/1RDOdi_fnhT43YTl_W7Z4..>googletest</a>
+<a href=https://github.com/Vikpech>GitHub</a>
+<br/>
+Телефон: <b>+79175938977</b>
+<br/>
+E-mail: <i>vmpechnikova@edu.hse.ru</i>
+</body>
+</html>
